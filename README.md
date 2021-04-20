@@ -1,4 +1,5 @@
 Hi👋,
+
 My name is Davi , I'm a student of Computer Science, currently in the 3rd period 🎓 
 
 - 🏠 Divinópolis - MG, BRASIL
