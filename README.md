@@ -9,12 +9,12 @@
 - 🎯 Focused on Full Stack, currently studying back end (C#, JavaScript)
 - 📄 Fan of codes, teaching, hardware and peripherals
 
-### 🎖️ Relevant achievements
+### 🎖️ Relevant Achievements
 - Awarded 1st place overall at the "XXI Feria Internacional de Ciencia y Tecnología" - CIENTEC (LIMA-PER)
 - Awarded 1st place overall at the "Mostra Técnica de Projetos ARTECEB" - MTEP (IMPERATRIZ-BRA)
 - Participation in ESI AMLAT (ARG), FEBRAT (UFMG - BRA), among other scientific exhibitions
 
-### 👨‍🏫 I'm working as
+### 👨‍🏫 I'm Working As
 - Teacher of Robotics, Code and development of 3D Games, at Code8734 school
 <br>
 </br>
