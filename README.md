@@ -11,5 +11,5 @@ My name is Davi , I'm a student of Computer Science, currently in the 3rd period
 
 <a href="https://www.linkedin.com/in/davi-ventura-cardoso-perdigao-5292051b7/" target= "_blanck">
 <img align="center" alt="davi-linkedin" height="30" widht="40" scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-widht:100%;">
- <a/>
+</a>
 
