@@ -5,7 +5,7 @@
 
 - 🏠 Divinópolis - MG, BRASIL
 - 👱‍♂️19 years
-- 🎓 Student of Computer Science, currently in the 3rd period 🎓
+- 🎓 Student of Computer Science, currently in the 4rd period 🎓
 - 🎯 Focused on Full Stack, currently studying back end (C#, JavaScript)
 - 📄 Fan of codes, teaching, hardware and peripherals
 
