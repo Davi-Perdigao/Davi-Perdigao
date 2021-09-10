@@ -9,8 +9,8 @@ object **Davi Perdigão** {
  val city = "Divinópolis - MG, BRASIL"
  
  val studying = "Computer Science, currently in the 4rd period"
- val focus = "Focused on Full Stack, currently studying back end (C#, JavaScript)"
- val characteristics = ("Fan of codes, teaching, hardware and peripherals")                                                                                  
+ val focus = "Focused on Full Stack, studying back end (C#, JavaScript)"
+ val characteristics = "Fan of codes, teaching, hardware and peripherals"                                                                                  
 
 }
 ```
