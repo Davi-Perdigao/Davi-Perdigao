@@ -1,5 +1,5 @@
 <h2> Hey there! i'm Davi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="left" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="270"/>   
+<img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="230"/>   
                                                                                                                                 
 <h3> 👨🏻‍💻 About Me </h3>
 
