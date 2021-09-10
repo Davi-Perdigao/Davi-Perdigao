@@ -6,12 +6,12 @@
 ```kotlin
 object **Davi Perdigao** {
                                                                                                                                 
- val age = "👱‍♂️ 19 years"
- val city = "🏠 Divinópolis - MG, BRASIL"
- val occupation = "👨‍🏫 Teacher of Robotics, Code and development of 3D Games"
- val studying = "💻 Computer Science, currently in the 4rd period"
- val focus = "🎯 Focused on Full Stack, studying back end (C#, JavaScript)"
- val characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
+ var age = "👱‍♂️ 19 years"
+ var city = "🏠 Divinópolis - MG, BRASIL"
+ var occupation = "👨‍🏫 Teacher of Robotics, Code and development of 3D Games"
+ var studying = "💻 Computer Science, currently in the 4rd period"
+ var focus = "🎯 Focused on Full Stack, studying back end (C#, JavaScript)"
+ var characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
 
 }
 ```    
