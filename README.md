@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 ```kotlin
-object **Davi Perdigão** {
+object **Davi Perdigao** {
  val age = "👱‍♂️ 19 years"
  val city = "🏠 Divinópolis - MG, BRASIL"
  val occupation = "👨‍🏫 Teacher of Robotics, Code and development of 3D Games"
