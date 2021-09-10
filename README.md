@@ -20,9 +20,6 @@ object **Davi Perdigao** {
 - Awarded 1st place overall at the "XXI Feria Internacional de Ciencia y Tecnología" - CIENTEC (LIMA-PER)
 - Awarded 1st place overall at the "Mostra Técnica de Projetos ARTECEB" - MTEP (IMPERATRIZ-BRA)
 - Participation in ESI AMLAT (ARG), FEBRAT (UFMG - BRA), among other scientific exhibitions
-
-### 👨‍🏫 I'm Working As
-- Teacher of Robotics, Code and development of 3D Games, at Code8734 school
 <br>
                                                                        
 [![Davi-Perdigao](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&hide=html&layout=compact&theme=tokyonight)](https://github.com/Davi-Perdigao/)                                                                       
