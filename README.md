@@ -14,11 +14,6 @@ object **Davi Perdigão** {
 
 }
 ```
-- 🏠 Divinópolis - MG, BRASIL
-- 👱‍♂️19 years
-- 🎓 Student of Computer Science, currently in the 4rd period 🎓
-- 🎯 Focused on Full Stack, currently studying back end (C#, JavaScript)
-- 📄 Fan of codes, teaching, hardware and peripherals
 
 ### 🎖️ Relevant Achievements
 - Awarded 1st place overall at the "XXI Feria Internacional de Ciencia y Tecnología" - CIENTEC (LIMA-PER)
