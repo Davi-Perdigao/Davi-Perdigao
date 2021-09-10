@@ -16,7 +16,7 @@ object **Davi Perdigao** {
 }
 ```
 
-### 🎖️ Relevant Achievements
+</h3> 🎖️ Relevant Achievements </h3>
 - Awarded 1st place overall at the "XXI Feria Internacional de Ciencia y Tecnología" - CIENTEC (LIMA-PER)
 - Awarded 1st place overall at the "Mostra Técnica de Projetos ARTECEB" - MTEP (IMPERATRIZ-BRA)
 - Participation in ESI AMLAT (ARG), FEBRAT (UFMG - BRA), among other scientific exhibitions
