@@ -1,7 +1,8 @@
 <h2> Hey there! i'm Davi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="270"/>   
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="270"/>                                                                                                                                
+
 ```kotlin
 object **Davi Perdigão** {
  val age = "19 years"
@@ -9,7 +10,7 @@ object **Davi Perdigão** {
  
  val studying = "Computer Science, currently in the 4rd period"
  val focus = "Focused on Full Stack, currently studying back end (C#, JavaScript)"
- val characteristics = listOf("Fan of codes, teaching, hardware and peripherals")                                                                                  
+ val characteristics = ("Fan of codes, teaching, hardware and peripherals")                                                                                  
 
 }
 ```
