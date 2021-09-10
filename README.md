@@ -4,12 +4,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
                                                                                                                                 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Davi Perdigão** {
+ val age = "19 years"
+ val city = "Divinópolis - MG, BRASIL"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val studying = "Computer Science, currently in the 4rd period"
+ val focus = "Focused on Full Stack, currently studying back end (C#, JavaScript)"
+ val characteristics = listOf("Fan of codes, teaching, hardware and peripherals")                                                                                  
 
 }
 ```
