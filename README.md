@@ -14,8 +14,7 @@ object **Davi Perdigao** {
  val characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
 
 }
-```
-<br>                                                                            
+```                                                                         
 
 <h3> 🎖️ Relevant Achievements </h3>
 - Awarded 1st place overall at the "XXI Feria Internacional de Ciencia y Tecnología" - CIENTEC (LIMA-PER)
