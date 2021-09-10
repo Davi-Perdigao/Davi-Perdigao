@@ -2,7 +2,17 @@
 <img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="270"/>
                                                                                                                                 
 <h3> 👨🏻‍💻 About Me </h3>
+                                                                                                                                
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 
+}
+```
 - 🏠 Divinópolis - MG, BRASIL
 - 👱‍♂️19 years
 - 🎓 Student of Computer Science, currently in the 4rd period 🎓
