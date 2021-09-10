@@ -14,7 +14,8 @@ object **Davi Perdigao** {
  val characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
 
 }
-```                                                                         
+```    
+<br>                                                                            
 
 <h3> 🎖️ Relevant Achievements </h3>
 <p align="left">                                                                            
