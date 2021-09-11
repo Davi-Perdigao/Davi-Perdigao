@@ -3,7 +3,6 @@
                                                                                                                                 
 <h3> 👨🏻‍💻 About Me </h3>
 
-```
 ```js
 import SoftwareDeveloper from 'Davi-Perdigao';
 
