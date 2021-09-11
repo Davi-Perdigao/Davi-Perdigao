@@ -3,26 +3,18 @@
                                                                                                                                 
 <h3> 👨🏻‍💻 About Me </h3>
 
-```kotlin
-object **Davi Perdigao** {
-                                                                                                                                
- var age = "👱‍♂️ 19 years"
- var city = "🏠 Divinópolis - MG, BRASIL"
- var occupation = "👨‍🏫 Teacher of Robotics, Code and development of 3D Games"
- var studying = "💻 Computer Science, currently in the 4rd period"
- var focus = "🎯 Focused on Full Stack, studying back end (C#, JavaScript)"
- var characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
-
-}
 ```
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'Davi-Perdigao';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name       = 'Davi Perdigao';
+  age        = '19 years'; 
+  location   = 'Divinopolis, MG - Brazil';                                                                          
+  occupation = '👨‍🏫 Teacher of Robotics, Code and development of 3D Games';
+  studying   = '💻 Computer Science, currently in the 4rd period';
+  focus      = '🎯 Focused on Full Stack, studying back end (C#, JavaScript)';
+                                                                             
 }
 ```                                                                           
                                                                             
