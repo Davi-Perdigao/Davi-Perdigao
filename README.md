@@ -7,9 +7,9 @@
 import SoftwareDeveloper from 'Davi-Perdigao';
 
 class Bio extends SoftwareDeveloper {
-  name       = 'Davi Perdigao';
-  age        = '19 years'; 
-  location   = 'Divinopolis, MG - Brazil';                                                                          
+  name       = '✍️ Davi Perdigao';
+  age        = '👱‍ ♂️19 years'; 
+  location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 Teacher of Robotics, Code and development of 3D Games';
   studying   = '💻 Computer Science, currently in the 4rd period';
   focus      = '🎯 Focused on Full Stack, studying back end (C#, JavaScript)';
