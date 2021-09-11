@@ -14,7 +14,18 @@ object **Davi Perdigao** {
  var characteristics = "🧐 Fan of codes, teaching, hardware and peripherals"                                                                                  
 
 }
-```    
+```
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+```                                                                           
+                                                                            
 <br>                                                                            
 
 <h3> 🎖️ Relevant Achievements </h3>
