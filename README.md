@@ -30,7 +30,8 @@ class Bio extends SoftwareDeveloper {
 <br>                                                                       
 <br>
                                                                        
-[![Davi-Perdigao](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&hide=html&layout=compact&theme=tokyonight)](https://github.com/Davi-Perdigao/)       
+![Davi-Perdigao's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&theme=tokyonight&layout=compact)
+       
 <br>               
                
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect With Me  </h3>
