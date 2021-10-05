@@ -1,7 +1,7 @@
 <h2> Hello World! i'm Davi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="300"/>   
                                                                                                                                 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me </h3>
 
 ```js
 import SoftwareDeveloper from 'Davi-Perdigao';
