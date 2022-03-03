@@ -1,6 +1,6 @@
 <h2> Hello World! i'm Davi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" alt="GIF" src=https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="300"/>   
-                                                                                                                     
+a                                                                                                                     
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me </h3>
 
 ```js
