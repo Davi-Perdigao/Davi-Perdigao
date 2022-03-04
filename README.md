@@ -11,7 +11,7 @@ class Bio extends SoftwareDeveloper {
   age        = '👱‍ 19 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 Teacher of Robotics, Code and development of 3D Games';
-  studying   = '💻 Computer Science, currently in the 4rd period';
+  studying   = '💻 Computer Science, currently in the 5rd period';
   focus      = '🎯 Focused on Full Stack, studying back end (C#, JavaScript)';
                                                                              
 }
