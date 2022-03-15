@@ -10,9 +10,9 @@ class Bio extends SoftwareDeveloper {
   name       = '✍️ Davi Perdigao';
   age        = '👱‍ 19 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
-  occupation = '👨‍🏫 Teacher of Robotics, Code and development of 3D Games';
+  occupation = '👨‍🏫 Full Stack Developer';
   studying   = '💻 Computer Science, currently in the 5rd period';
-  focus      = '🎯 Focused on Full Stack, studying back end (C#, JavaScript, Python)';
+  focus      = '🎯 Studying front end + back end (TypeScript, JavaScript, Python, HTML)';
                                                                              
 }
 ```                                                                           
