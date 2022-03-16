@@ -12,7 +12,7 @@ class Bio extends SoftwareDeveloper {
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 Full Stack Developer';
   studying   = '💻 Computer Science, currently in the 5rd period';
-  focus      = '🎯 Studying front end + back end (TypeScript, JavaScript, Python, HTML)';
+  focus      = '🎯 TypeScript, JavaScript, Angular, Python, HTML';
                                                                              
 }
 ```                                                                           
