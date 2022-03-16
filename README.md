@@ -3,7 +3,6 @@
                                                       
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me </h3> 
                                                                                                                                                                   
-
 ```js
 import SoftwareDeveloper from 'Davi-Perdigao';
 
