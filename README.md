@@ -29,7 +29,8 @@ class Bio extends SoftwareDeveloper {
 <br>
 <br>                                                                       
 <br>
- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao=javascript,html,scss,html&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao)](https://github.com/Davi-Perdigao)  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=7&theme=dark"/>
                
