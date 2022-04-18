@@ -30,7 +30,7 @@ class Bio extends SoftwareDeveloper {
 <br>                                                                       
 <br>
 
-![](https://github.com/Davi-Perdigao/github-stats/blob/master/generated/languages.svg) 
+[![Davi Perdigão's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=7&theme=dark")]()
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=7&theme=dark"/>
                
        
