@@ -15,7 +15,7 @@ class Bio extends SoftwareDeveloper {
                                                                              
 }
 ```                                                                           
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="adam-pw" /></p>                                          
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" alt="adam-pw" /></p>-->
 <br>                                                                            
 
 <h3> 🎖️ Relevant Achievements </h3>
