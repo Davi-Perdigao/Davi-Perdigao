@@ -29,7 +29,7 @@ class Bio extends SoftwareDeveloper {
 <br>                                                                       
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=10&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=6&theme=dark"/>
                
        
 <br>               
