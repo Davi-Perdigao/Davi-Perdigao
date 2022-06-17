@@ -37,9 +37,10 @@ class Bio extends SoftwareDeveloper {
 <br>               
                
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect With Me  </h3>
+  
 <p align="center">
- 
-
-&nbsp; <a href="https://www.instagram.com/daviperdigao_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  &nbsp; <a href="https://www.linkedin.com/in/davi-perdig%C3%A3o-5292051b7//" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>&nbsp; <a href="mailto:davivcperdigao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/daviperdigao_/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/davi-perdig%C3%A3o-5292051b7//" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>
+&nbsp; <a href="mailto:davivcperdigao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" /></a>
 </p>
 
