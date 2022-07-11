@@ -12,7 +12,7 @@ class Bio extends SoftwareDeveloper {
   age        = '👱‍ 20 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 FullStack Developer';
-  studying   = '💻 Computer Science, currently in the 5rd period';
+  studying   = '💻 Computer Science, currently in the 6rd period';
   focus      = '🎯 TypeScript, JavaScript, Angular, Python, HTML';
                                                                              
 }
