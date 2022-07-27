@@ -17,7 +17,7 @@ class Bio extends SoftwareDeveloper {
                                                                              
 }
 ```                                                                           
-<p><img align="right" src="https://github.com/Davi-Perdigao/Portfolio-Davi/blob/main/src/Assets/about.png" width="500px"/></p>
+<p><img align="right" src="https://github.com/Davi-Perdigao/Portfolio-Davi/blob/main/src/Assets/about.png" width="400px"/></p>
 <br>                                                                            
 <h3> 🎖️ Relevant Achievements </h3>
 <p align="left">                                                                            
