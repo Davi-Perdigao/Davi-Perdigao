@@ -1,4 +1,4 @@
-<h2> Hello World! i'm Davi 👋</h2>
+<h1 align="center"> Hello World! i'm Davi 👋</h2>
 
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
                                                       
