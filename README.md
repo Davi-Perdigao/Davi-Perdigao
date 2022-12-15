@@ -31,9 +31,9 @@ class Bio extends SoftwareDeveloper {
 - <strong>Participation in ESI AMLAT (ARG), FEBRAT (UFMG - BRA), among other scientific exhibitions<strong>
 <br>
 <br>                                                                       
-<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Davi-Perdigao&layout=compact&langs_count=6&theme=material-palenight"/>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
