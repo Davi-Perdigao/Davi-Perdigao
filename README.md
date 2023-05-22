@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
   name       = '✍️ Davi Perdigao';
   age        = '👱‍ 21 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
-  occupation = '👨‍🏫 FullStack Developer';
+  occupation = '👨‍🏫 Developer | QA';
   studying   = '💻 Computer Science, currently in the 7rd period';
   focus      = '🎯 TypeScript, JavaScript, Angular, Python';
                                                                              
