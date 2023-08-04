@@ -15,7 +15,7 @@ class Bio extends SoftwareDeveloper {
   age        = '👱‍ 21 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 Developer | QA';
-  studying   = '💻 Computer Science, currently in the 7rd period';
+  studying   = '💻 Computer Science, currently in the 8rd period';
   focus      = '🎯 TypeScript, JavaScript, Angular, Python';
                                                                              
 }
