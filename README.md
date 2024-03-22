@@ -12,7 +12,7 @@ import SoftwareDeveloper from 'Davi-Perdigao';
 
 class Bio extends SoftwareDeveloper {
   name       = '✍️ Davi Perdigao';
-  age        = '👱‍ 21 years'; 
+  age        = '👱‍ 22 years'; 
   location   = '🏠 Divinopolis, MG - Brazil';                                                                          
   occupation = '👨‍🏫 Developer | QA | Project Manager';
   focus      = '🎯 TypeScript, JavaScript, Angular, Python';
